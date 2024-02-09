@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_sizes">
+        <item>permis de conduire</item>
+        <item>Passport</item>
+        <item>Carte assurance maladie</item>
+        <item>Carte CDI</item>
+        <item>Carte permis construction</item>
+        array </string-array>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Services-Novigrad</string>
+    <string name="gcm_defaultSenderId" translatable="false">558515424114</string>
+    <string name="google_api_key" translatable="false">AIzaSyA1km9KoW0AJebyA3buyjoyxKouKMoVOcw</string>
+    <string name="google_app_id" translatable="false">1:558515424114:android:6fedba6e99b71f6322ebeb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1km9KoW0AJebyA3buyjoyxKouKMoVOcw</string>
+    <string name="google_storage_bucket" translatable="false">services-novigrad-affa5.appspot.com</string>
+    <string name="project_id" translatable="false">services-novigrad-affa5</string>
+    <style name="Base.Theme.ServicesNovigrad" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ServicesNovigrad" parent="Base.Theme.ServicesNovigrad"/>
+</resources>

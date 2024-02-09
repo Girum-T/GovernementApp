@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ServicesNovigrad"
+        tools:targetApi="31">
+        <activity
+            android:name=".ViewRequest"
+            android:exported="false" />
+        <activity
+            android:name=".SuccursaleInfo"
+            android:exported="false" />
+        <activity
+            android:name=".RequestForm"
+            android:exported="false" />
+        <activity
+            android:name=".SuccursaleInf"
+            android:exported="false" />
+        <activity
+            android:name=".ClientViewSuccursalePage"
+            android:exported="false" />
+        <activity
+            android:name=".ClientPage"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.UserList"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.UsersPage"
+            android:exported="false" />
+        <activity
+            android:name=".Employee.NewEmployeePageError"
+            android:exported="false" />
+        <activity
+            android:name=".Employee.AddServicePage"
+            android:exported="false" />
+        <activity
+            android:name=".Employee.BranchEditPage"
+            android:exported="false" />
+        <activity
+            android:name=".Pop_Up_EditPage"
+            android:exported="false" />
+        <activity
+            android:name=".Services.NewServicesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Services.ServiceList"
+            android:exported="false" />
+        <activity
+            android:name=".Employee.WorkingHours"
+            android:exported="false" />
+        <activity
+            android:name=".Employee.MainBranchPage"
+            android:exported="false" />
+        <activity
+            android:name=".Services.ServicesPage"
+            android:exported="false" />
+        <activity
+            android:name=".Admin.AdminPage"
+            android:exported="false" />
+        <activity
+            android:name=".WelcomePage"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddServicesPage"
+            android:exported="false" />
+        <activity
+            android:name=".DeleteServicesPage"
+            android:exported="false" />
+        <activity
+            android:name=".EditServicesPage"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

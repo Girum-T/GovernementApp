@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Pop_Up_EditPage">
+
+
+
+    <EditText
+        android:id="@+id/inputServiceName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Service Name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toStartOf="@+id/NewInputServiceName"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/NewInputServiceName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="New Service Name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/inputServiceName"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:id="@+id/inputForm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Formulaire(s)"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toStartOf="@+id/NewInputForm"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputServiceName" />
+
+    <EditText
+        android:id="@+id/NewInputForm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="New Formulaire(s)"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/inputForm"
+        app:layout_constraintTop_toBottomOf="@+id/NewInputServiceName" />
+
+
+
+
+
+
+    <EditText
+        android:id="@+id/inputDoc"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="Document(s)"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toStartOf="@+id/NewInputDoc"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputForm" />
+
+
+
+
+    <EditText
+        android:id="@+id/NewInputDoc"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:hint="New Document(s)"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/inputForm"
+        app:layout_constraintTop_toBottomOf="@+id/NewInputForm" />
+
+
+
+    <Button
+        android:id="@+id/btnUpdateData"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Update data"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inputDoc" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

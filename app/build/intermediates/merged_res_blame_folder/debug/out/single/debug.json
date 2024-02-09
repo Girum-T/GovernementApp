@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_layout_succursale_list.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\layout_succursale_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_admin_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_admin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\mipmap-hdpi_admin_icon.png.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\mipmap-hdpi\\admin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_new_services.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_new_services.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\menu_new_services_menu.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\menu\\new_services_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_add_users_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_add_users_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_services_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_services_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\drawable_baseline_save.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\drawable\\baseline_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_row_users.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\row_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_pop_up_edit_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_pop_up_edit_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\drawable_baseline_delete.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\drawable\\baseline_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_layout_succursale_list_info.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\layout_succursale_list_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_row_services_employee.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\row_services_employee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_add_branch_service.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_add_branch_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_view_request.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_view_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_layout_service_list.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\layout_service_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_users_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_users_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_new_employee_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_new_employee_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_row.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_layout_view_request.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\layout_view_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_edit_succursale.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_edit_succursale.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_employee_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_employee_page.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_new_users.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_new_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_welcome_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_succursale_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_succursale_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_branch_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_branch_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_succursale_info2.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_succursale_info2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_request_form.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_request_form.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_add_users_page.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_add_users_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_delete_services_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_delete_services_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_edit_services_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_edit_services_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_add_services_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_add_services_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\drawable_baseline_close.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\drawable\\baseline_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_new_users.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_new_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.services_novigrad.app-merged_res-38:/layout_activity_admin_page.xml.flat",
+        "source": "com.example.services_novigrad.app-main-40:/layout/activity_admin_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\drawable_baseline_add.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\drawable\\baseline_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_edit_heures.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_edit_heures.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-merged_res-38:\\layout_activity_client_page.xml.flat",
+        "source": "C:\\Users\\Moi\\.gradle\\daemon\\8.0\\com.example.services_novigrad.app-main-40:\\layout\\activity_client_page.xml"
+    }
+]

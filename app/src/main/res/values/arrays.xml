@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_sizes">
+        <item>permis de conduire</item>
+        <item>Passport</item>
+        <item>Carte assurance maladie</item>
+        <item>Carte CDI</item>
+        <item>Carte permis construction</item>
+        array </string-array>
+</resources>

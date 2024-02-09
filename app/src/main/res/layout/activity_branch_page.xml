@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/edit_branch_services"
+        style="@android:style/Widget.Material.Button.Colored"
+        android:layout_width="133dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="16dp"
+        android:text="Edit Services"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
+
+    <TextView
+        android:id="@+id/titrePage"
+        android:layout_width="326dp"
+        android:layout_height="62dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="44dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Branch Page"
+        android:textColor="#100101"
+        android:textSize="40dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/edit_branch_info"
+        style="@android:style/Widget.Material.Button.Colored"
+        android:layout_width="151dp"
+        android:layout_height="67dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="68dp"
+        android:text="Edit Branch info"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_branch_services"
+        app:layout_constraintVertical_bias="0.982" />
+
+    <Button
+        android:id="@+id/edit_working_hours"
+        style="@android:style/Widget.Material.Button.Colored"
+        android:layout_width="150dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="68dp"
+        android:text="Edit Working Hours"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/edit_branch_info"
+        app:layout_constraintTop_toBottomOf="@+id/edit_branch_services"
+        app:layout_constraintVertical_bias="0.966" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="400dp"
+        android:layout_height="318dp"
+        android:layout_marginTop="56dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.228"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/titrePage">
+
+        <ListView
+            android:id="@+id/listbranchservice"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
